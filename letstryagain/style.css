@@ -1,0 +1,141 @@
+body {
+  background-color: #db896f;
+}
+
+#home {
+	background-color: #f7b971;
+}
+
+#journeys {
+	background-color: #63C5DA;
+}
+#destinations {
+	background-color:#918a7f ;
+}
+#about {
+	background-color: #52aa88;
+}
+ul {
+  list-style-type: none;
+  margin: 0 0 0 25px;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+li a {
+  display: block;
+  color: #a53c02;
+  text-align: center;
+  padding: 18px 30px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.active {
+  background-color: #c6d5db;
+}
+li a:hover {
+  background-color: #c6d5db;
+}
+.portrait {
+  width: 490px;
+  height: 600px;
+  display: block;
+}
+header h2 {
+  padding: 40px;
+}
+header h2 {
+  font-family: "Trirong", serif;
+}
+
+#container {
+  width: 1100px;
+  margin: 0 auto;
+  background-color: #a8d5e5;
+}
+.two-column {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding: 40px;
+}
+footer {
+  padding: 40px;
+}
+footer p {
+  margin: 0;
+}
+.social-icons {
+  color: #aaaaaa;
+  width: 1100px;
+  margin-left: 400px;
+
+}
+.social-icons:hover {
+  color: #333333;
+}
+.social-icons {
+  padding: 40px;
+}
+.social-icons img {
+  height: 30px;
+}
+.social-iconss{
+  margin-left: 550px;
+  color: #aaaaaa;
+  width: 1100px;
+}
+.social-iconss img {
+  height: 30px;
+}
+.two-column div {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+#journeys .two-column div {
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 400px;
+}
+.paragraph-text {
+  text-align: center;
+}
+.zakopane {
+  width: 490px;
+  height: 400px;
+}
+.spicespicture {
+  width: 490px;
+  height: 400px;
+}
+.borjomi {
+  width: 490px;
+  height: 400px;
+}
+.barcelona {
+  width: 490px;
+  height: 400px;
+  display: block;
+}
+.roma {
+  width: 490px;
+  height: 400px;
+  display: block;
+}
+.self-portrait {
+  width: 490px;
+  height: 600px;
+  display: block;
+}
+.button {
+  display: block;
+  margin: auto;
+}
+p {
+  font-size: 18px;
+  line-height: 2em;
+  margin-bottom: 32px;
+}
